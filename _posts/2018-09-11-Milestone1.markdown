@@ -4,68 +4,7 @@ title:  "Milestone 1"
 date:   2018-09-11 13:02:31 -0400
 categories: milestones
 ---
-LDP-M1: Project Selection
-NYU Educational Communication and Technology DMDL/G4L Thesis
-
-Write-up
-My write-up answers following questions:  
-not there yet
-kinda, but needs work
-  strong
-For whom would this LDP be designed and for what purpose? (What is the driving question, problem, issue, or need I am addressing?)
-
-
-
-Why is something like this important for my target group? For others?  (How do I know this to be true-- convince us by backing up your claims using credible sources)
-
-
-
-What are the outcomes I care about, or the impact I hope this project will have? (if applicable, this could be stated in terms of acquired knowledge, skills or changes in behaviors and attitudes)
-
-
-
-What are some insights I already have about this problem or my learners that might guide my solution ideas?  
-
-
-
-(optional) What are some initial project ideas? (stay light and tentatives; these ideas may change later and you don’t want feedback to focus only on your solutions right now)
-
-
-
-How/why might my project be different/unique or better in some way than solutions that are already out there? (what are those other solutions, if known at this point)
-
-
-
-
-
-Other considerations:
-I have considered following:
-No idea
-   Not sure
-  Yes!
-This project is feasible for me.. (what skills and knowledge do you already have and what you will need to acquire?... if your solution ideas are tentative, this may be hard to know at this stage. That’s ok)
-
-
-
-I have or can gain access to my target users/ participants/ subject matter experts/ other collaborators (for input, feedback, user testing, etc)
-
-
-
-This project will involve at least a few things I can build on (a deep interest, experience, subject matter expertise, technical skills, use of a certain design process)
-
-
-
-I have jotted down and gotten some feedback on any questions or concerns I have about this project.
-
-
-
-
-Comments
-
-
-
-
-Early thoughts and plans
+Early thoughts and plans : Draft 1
 Sustainability and conservation has always been a topic close to my heart. I have practiced pro-environmental behaviour in some form and habit for many years, sometimes with support from my family and friends and sometimes without. But this behaviour has mostly stemmed from a personal endeavour because I have always felt a certain empathy towards nature and wildlife through personal experiences, and not because I was introduced to the any related topics in school or in any form of formal or informal education. When I was in school, which was almost 2 decades back, environmental education was mostly non-existent. I do not have any recollection of being taught about our environment and how it fits into our lives (or more like how we fit into the environment around us).
 
 Now, I believe most schools in India have a subject called Environmental Studies or EVS aimed at primary-to-middle-school students. The subject aims to make students more aware about themselves, their family and society and its culture, as well as the animals and plants and the natural world around them. I am not well aware of the curriculum for environmental education followed in the schools in the US. However, I know that environmental education has been part of the main school curriculum for a few decades now. New York City also has environmentally focussed high schools as well as educational organisations that have developed nature-focussed pedagogies for use by teachers in various schools. There are many informal learning programs and organisations in both India and the US that create and run some innovative environmental education programs. There are even many undergraduate and masters programs in environmental studies and conservation. Environmental awareness and education can find roots in the US as early as the 1970’s (confirm and cite). (Find for India).
