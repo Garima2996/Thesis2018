@@ -1,5 +1,5 @@
 ---
-layout: category-post
+layout: category_index
 title:  "Milestone 1"
 date:   2018-09-11 13:02:31 -0400
 categories: milestones
