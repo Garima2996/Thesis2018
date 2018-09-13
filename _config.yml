@@ -19,11 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   This website will document my thesis work during semester 1 of 2018.
 
 
-baseurl: /Thesis2018/ # the subpath of your site, e.g. /blog
+baseurl: /Thesis2018 # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deerhopsby
 github_username:  Garima2996
 github_repo: Thesis2018
+theme_color: black
 
 # Build settings
 markdown: kramdown
