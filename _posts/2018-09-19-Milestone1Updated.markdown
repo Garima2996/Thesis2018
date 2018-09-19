@@ -18,6 +18,6 @@ Through my research, I hope to find out about the current state of environmental
 Interesting readings related to education and environmental awareness:
 
 1. [The Earth Charter](http://earthcharter.org/discover/the-earth-charter/)
-The Project Learning Tree curriculum (https://www.plt.org/educator-tips/top-ten-benefits-environmental-education/)
-2. [Losing Earth](https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html)
-3. [Can education save our planet?](https://india.mongabay.com/2018/09/14/can-environment-education-save-our-planet/)
+2. [The Project Learning Tree curriculum](https://www.plt.org/educator-tips/top-ten-benefits-environmental-education/)
+3. [Losing Earth](https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html)
+4. [Can education save our planet?](https://india.mongabay.com/2018/09/14/can-environment-education-save-our-planet/)
