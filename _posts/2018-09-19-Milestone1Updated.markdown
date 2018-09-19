@@ -23,3 +23,5 @@ Interesting readings related to education and environmental awareness:
 2. [10 benefits of environmental education – The Project Learning Tree](https://www.plt.org/educator-tips/top-ten-benefits-environmental-education/)
 3. [Losing Earth](https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html)
 4. [Can education save our planet?](https://india.mongabay.com/2018/09/14/can-environment-education-save-our-planet/)
+
+[Self-assessment Checklist](https://docs.google.com/document/d/1jTkZLiijhoKxIbrqiz2E0NwZ22y28ckKxo_nvzMYY_o/edit?usp=sharing)
