@@ -1,8 +1,16 @@
 # Thesis2018
-This website will document my thesis work during semester one of 2018.
+This website is public at https://Garima2996.github.io/Thesis2018/
+
+I will documenting my thesis project in this space.
 
 
 ## Run Instructions
+Navigate to the directory where this website is stored. For example:
+```
+$ cd /Users/garimasharma/Desktop/_REPOSITORY/_DMDL/__Github/Thesis2018
+```
+
+Then build the site to view locally.
 ```
 $ bundle exec jekyll serve
 ```
