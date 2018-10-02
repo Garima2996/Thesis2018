@@ -18,3 +18,4 @@ $ bundle exec jekyll serve
 ## Resources:
 * Getting started: [Github pages](https://pages.github.com/)
 * [I am using broccolini's theme called Swiss](https://github.com/broccolini/swiss)
+* [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
